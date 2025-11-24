@@ -1,7 +1,13 @@
-# Algoritmos e Lógica de Programação
+# 🧮 Algoritmos e Lógica de Programação
 
-Repositório destinado ao armazenamento de códigos e exercícios práticos desenvolvidos durante o 1º semestre do curso de ADS na UDF.
+Repositório acadêmico destinado aos exercícios práticos e desafios de lógica desenvolvidos durante o 1º semestre.
 
-## 🛠 Tecnologias
-- C / Python 
-- Visual Studio Code
+## 📌 Conteúdo Estudado
+- Lógica de programação e estruturação de algoritmos.
+- Estruturas condicionais (`if`, `else`, `switch`).
+- Laços de repetição (`for`, `while`).
+- Vetores e Matrizes.
+
+## 🛠 Tecnologias Utilizadas
+- **Linguagem:** C / Portugol
+- **IDE:** Visual Studio Code / DevC++
